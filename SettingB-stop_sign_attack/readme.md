@@ -12,7 +12,7 @@ To be consistent with [[1]](#ref-1), we use the same dataset (a modified version
 
 ## Reimplement the table
 
-![image-20210211193002455](img\1.png)
+<img src="img\1.png" alt="image-20210211193002455"  />
 
 ```bash
 cd pipeline

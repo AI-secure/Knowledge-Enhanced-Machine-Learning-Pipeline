@@ -24,7 +24,7 @@ For $L_{\infty}$ attack, we generate the adversarial examples under three differ
 
 * **Whitebox sensor attack**
 
-  ![image-20210211193830941](img\7.png)
+  <img src="img\7.png" alt="image-20210211193830941"  />
 
   ```bash
   cd pipeline
@@ -33,7 +33,7 @@ For $L_{\infty}$ attack, we generate the adversarial examples under three differ
 
 * **Blackbox sensor attack**
 
-  ![image-20210211194144345](img\8.png)
+  <img src="img\8.png" alt="image-20210211194144345"  />
 
   ```bash
   cd pipeline
@@ -55,7 +55,7 @@ For $L_{\infty}$ attack, we generate the adversarial examples under three differ
 
 * **Whitebox sensor attack**
 
-  ![image-20210211204347658](img\10.png)
+  <img src="img\10.png" alt="image-20210211204347658"  />
 
   ```bash
     cd pipeline
@@ -64,7 +64,7 @@ For $L_{\infty}$ attack, we generate the adversarial examples under three differ
 
 * **Blackbox sensor attack**
 
-  ![image-20210211205621986](img\11.png)
+  <img src="img\11.png" alt="image-20210211205621986"  />
 
   ```bash
     cd pipeline
@@ -73,7 +73,7 @@ For $L_{\infty}$ attack, we generate the adversarial examples under three differ
 
 * **Blackbox pipeline attack**
 
-  ![image-20210211205742555](img\12.png)
+  <img src="img\12.png" alt="image-20210211205742555"  />
 
   ```bash
     cd pipeline
@@ -84,7 +84,7 @@ For $L_{\infty}$ attack, we generate the adversarial examples under three differ
 
 ## Reimplement Common Corruptions
 
-![image-20210211210026437](img\13.png)
+<img src="img\13.png" alt="image-20210211210026437"  />
 
 ```bash
   cd pipeline

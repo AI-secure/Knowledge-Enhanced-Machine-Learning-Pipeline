@@ -42,7 +42,7 @@ For $L_{\infty}$ attack, we generate the adversarial examples under three differ
 
 * **Blackbox pipeline attack**
 
-  ![image-20210211194220988](img\9.png)
+  <img src="img\9.png" alt="image-20210211194220988"  />
   
     ```bash
     cd pipeline

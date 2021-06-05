@@ -10,11 +10,11 @@ This directory contains the code for evaluating our KEMLP framework against :
 
 * **Unforeseen attacks**
 
-  <img src="img\1.png" width="33%" /><img src="img\2.png" width="33%" /><img src="img\3.png" width="33%" />
+  <img src="img\14.png" width="100%" />
 
 * **Natural corruption**
 
-  <img src="img\4.png" width="33%" /><img src="img\5.png" width="33%" /><img src="img\6.png" width="33%" />
+  <img src="img\15.png" width="100%" />
 
 <br><br>
 
@@ -24,7 +24,7 @@ For $L_{\infty}$ attack, we generate the adversarial examples under three differ
 
 * **Whitebox sensor attack**
 
-  <img src="img\7.png" alt="image-20210211193830941"  />
+  <img src="img\16.png" width="100%" />
 
   ```bash
   cd pipeline
@@ -55,7 +55,7 @@ For $L_{\infty}$ attack, we generate the adversarial examples under three differ
 
 * **Whitebox sensor attack**
 
-  <img src="img\10.png" alt="image-20210211204347658"  />
+  <img src="img\17.png" alt="image-20210211194220988"  />
 
   ```bash
     cd pipeline

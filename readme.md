@@ -2,8 +2,6 @@
 
 * Complete repository with full data and pretrained models : 
 
-  (anonymous dropbox directory)
-
   https://www.dropbox.com/sh/4xxz10xxi0o5kjb/AAAhkYrCtHWD-huP3D_FCK1Ga?dl=0
 
 * Evaluation against $\mathcal{L}_\infty$, unforeseen attacks and common corruptions : `./SettingA-linf,unforeseen,corruptions`
